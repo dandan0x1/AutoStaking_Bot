@@ -1,2 +1,2 @@
-# AutoStaking_Bot
-AutoStaking_Bot
+# AutoStaking
+注册rf：https://autostaking.pro/?env=pharos
